@@ -10,7 +10,7 @@
 
 🚀 Projects
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/aws를 활용한 개인 페이지-232F3E?style=flat-square&logo=amazone aws&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/aws를 활용한 개인 페이지-232F3E?style=flat-square&logo=amazoneAws&logoColor=white"/></a>
 
 
 
