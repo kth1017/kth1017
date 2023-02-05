@@ -5,7 +5,7 @@
 
 🔧 Skills
 
-<a href="https://fadet-coding.tistory.com/manage" target="_blank"><img src="https://img.shields.io/badge/spring-#6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/spring-#6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 
 
 🚀 Projects
