@@ -5,7 +5,7 @@
 
 🔧 Skills
 
-<img src="https://img.shields.io/badge/spring boot-#6DB33F?style=flat-square&logo=spring boot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/springboot-#6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>
 
 
 🚀 Projects
