@@ -1,5 +1,12 @@
+link
+
 <a href="https://fadet-coding.tistory.com/manage" target="_blank"><img src="https://img.shields.io/badge/tistiory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
 <a href="https://www.notion.so/Developer-fadet-419a3bc5b4d44e82a413116b44bf3fd2" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+
+🔧 Skills
+
+
+🚀 Projects
 
 
 
