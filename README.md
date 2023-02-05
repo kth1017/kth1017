@@ -10,9 +10,9 @@
 
 🚀 Projects Repo
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/스프링 시큐리티를 사용한 로그인 게시판 프로젝트 -232F3E?style=flat-square&logo=amazone_Aws&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/티스토리 블로그용 목차&링크 추가 기능 -232F3E?style=flat-square&logo=amazone_Aws&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/게임 리그오브레전드의 칼바람 나락 모드 스킬셋 가이드 -232F3E?style=flat-square&logo=amazone_Aws&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/스프링 시큐리티를 사용한 로그인 게시판 프로젝트-FF0000?style=flat-square&logo=&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/티스토리 블로그용 목차&링크 추가 기능 -232F3E?style=flat-square&logo=&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/게임 리그오브레전드의 칼바람 나락 모드 스킬셋 가이드 -232F3E?style=flat-square&logo=&logoColor=white"/></a>
 
 
 
