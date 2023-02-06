@@ -6,7 +6,13 @@
 
 🔧 Skills
 
+main
+
 <img src="https://img.shields.io/badge/java-744e3b?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> 
+
+sub
+
+
 
 
 🚀 Projects Repo
