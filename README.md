@@ -1,3 +1,5 @@
+안녕하세요? JAVA, Spring을 주력으로 개발하고 있는 개발 지망생 fadet입니다.
+
 ⚡ link
 
 <a href="https://fadet-coding.tistory.com/manage" target="_blank"><img src="https://img.shields.io/badge/tistiory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
