@@ -12,7 +12,7 @@ main
 
 sub
 
-
+<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/> 
 
 
 🚀 Projects Repo
