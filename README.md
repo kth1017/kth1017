@@ -1,4 +1,4 @@
-안녕하세요? JAVA, Spring을 주력으로 개발하고 있는 개발 지망생 fadet입니다.
+안녕하세요? JAVA, Spring을 주력으로 개발하고 있는 개발자 fadet입니다.
 
 ⚡ link
 
