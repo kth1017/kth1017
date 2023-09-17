@@ -1,5 +1,10 @@
 안녕하세요? JAVA, Spring Boot를 주로 사용하는 개발자 fadet입니다.
 
+레포 검색 접두사
+project_ 진행 중인 토이 프로젝트 혹은 아이디어 구현
+practice_ 강의 혹은 교재 실습
+prepare_ 문제 풀이 및 자습
+
 ⚡ link
 
 <a href="https://fadet-coding.tistory.com" target="_blank"><img src="https://img.shields.io/badge/tistiory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
