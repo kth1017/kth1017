@@ -24,7 +24,7 @@ sub
 
 🚀 Projects Repo
 
-<a href="https://github.com/kth1017/project_GptApi_1" target="_blank"><img src="https://img.shields.io/badge/GPT API를 이용한 AI웹서비스-8258FA?style=flat-square&logo=&logoColor=white"/></a>
+<a href="https://github.com/kth1017/project_GptApiPlusCi" target="_blank"><img src="https://img.shields.io/badge/GPT API를 이용한 AI웹서비스-8258FA?style=flat-square&logo=&logoColor=white"/></a>
 <a href="https://github.com/kth1017/project_AwsPosts_1" target="_blank"><img src="https://img.shields.io/badge/스프링 시큐리티를 사용한 로그인 게시판 웹서비스-FF0000?style=flat-square&logo=&logoColor=black"/></a>
 <a href="https://github.com/kth1017/project_newPostLink" target="_blank"><img src="https://img.shields.io/badge/티스토리 블로그용 목차&링크 추가 기능-008FC7?style=flat-square&logo=&logoColor=white"/></a>
 
