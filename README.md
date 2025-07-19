@@ -1,14 +1,3 @@
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kth1017&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/kth1017?pet-id=715020256871309030"
-    width="600"
-    height="120"
-  />
-</a>
-  
-  
-
 안녕하세요? JAVA, Spring Boot를 주로 사용하는 개발자 fadet입니다.
 
 @레포 검색 접두사
