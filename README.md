@@ -16,7 +16,7 @@
 main
 
 <img src="https://img.shields.io/badge/java-744e3b?style=flat-square&logo=java&logoColor=white"/> <a href="https://github.com/kth1017/practice_javaThread" target="_blank"><img src="https://img.shields.io/badge/thread-744e3b?style=social"/></a>
-<a href="https://github.com/kth1017/project_GptApiPlusCi" target="_blank"><img src="https://img.shields.io/badge/lambda-744e3b?style=social"/></a>
+<a href="https://github.com/kth1017/practice_javaLambda" target="_blank"><img src="https://img.shields.io/badge/lambda-744e3b?style=social"/></a>
 
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> 
 
